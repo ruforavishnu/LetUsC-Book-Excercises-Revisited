@@ -1,6 +1,6 @@
 [Project]
-FileName=LetUsC-Chapter5-ExcA.dev
-Name=LetUsC-Chapter5-ExcA
+FileName=LetUsC-Chapter5-ExcD.dev
+Name=LetUsC-Chapter5-ExcD
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=LetUsC-Chapter5-ExcA-d.c
+FileName=LetUsC-Chapter5-ExcD-a.c
 CompileCpp=0
 Folder=
 Compile=1
